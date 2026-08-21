@@ -8,7 +8,7 @@ listen_for_clients_preferred_style: true
 disable_google_fonts: true
 
 # Pie de página (soporta HTML)
-footer: '<style>html { font-size: 18px !important; } h1, h2, h3, h4, h5, h6 { font-size: $base-font-size; margin: 45px 0 15px 0 !important; font-weight: bold; color: var(--text-color); } .container { max-width: 800px !important; } img { max-width: 100%; height: auto; display: block; margin: 20px 0; border: 1px solid var(--code-color-1); } @media only screen and (max-device-width: 500px) { * { font-size: 16px !important; } } ::-webkit-scrollbar { width: 8px; height: 8px; } ::-webkit-scrollbar-track { background: var(--background-color); } ::-webkit-scrollbar-thumb { background: var(--code-color-1); } </style>&copy; 2026 Yeray Leon | <a href="https://linkedin.com/in/yeray-leon-belmonte">LinkedIn</a> | <a href="https://github.com/SamuraySanta">GitHub</a> | <script src="/assets/js/matrix.js"></script>'
+footer: '&copy; 2026 Yeray León | <a href="https://linkedin.com/in/yeray-leon-belmonte">LinkedIn</a> | <a href="https://github.com/SamuraySanta">GitHub</a>'
 # --- OPTIMIZACIÓN ---
 # Corregido: La sintaxis YAML requiere salto de línea y sangría aquí
 sass:
