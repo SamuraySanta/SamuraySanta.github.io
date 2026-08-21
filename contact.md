@@ -6,7 +6,7 @@ lang: es
 robots: noindex
 ---
 
-### `~# echo "Hello yeray!"`
+### `# echo "Hello Yeray!"`
 
 Si quieres hablar sobre proyectos, colaboraciones o simplemente saludar:
 
