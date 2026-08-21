@@ -4,13 +4,11 @@ title: /contact
 permalink: /contact/
 ---
 
-# > ping yeray
+### `~# write "Hello yeray!"`
 
-Si quieres hablar sobre proyectos, colaboraciones o simplemente saludar, aquí tienes los puertos que tengo abiertos:
+Si quieres hablar sobre proyectos, colaboraciones o simplemente saludar:
 
-* **Email:** [tu_correo@gmail.com](mailto:tu_correo@gmail.com)
-* **LinkedIn:** [Mi Perfil](https://linkedin.com/in/tu_perfil_aqui)
-* **GitHub:** [@tu_usuario_aqui](https://github.com/tu_usuario_aqui)
-* **TryHackMe:** [Mi Perfil de THM](https://tryhackme.com/p/tu_usuario_aqui)
-
-*Pista: El email es la forma más rápida de obtener un `200 OK` por mi parte.*
+* **Email:** [yerayleonbelmonte@gmail.com](mailto:yerayleonbelmonte@gmail.com)
+* **LinkedIn:** [Yeray León Belmonte ](https://linkedin.com/in/yeray-leon-belmonte)
+* **GitHub:** [@SamuraySanta](https://github.com/SamuraySanta)
+* **TryHackMe:** [SamuraySanta](https://tryhackme.com/p/SamuraySanta)
