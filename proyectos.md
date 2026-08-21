@@ -4,14 +4,14 @@ title: /proyectos
 permalink: /proyectos/
 ---
 
-# > ls -l ./proyectos/
+# > ls ./proyectos
 
 Aquí recopilo mis herramientas, scripts y entornos de pruebas.
 
-### [> Proyecto Alpha](./guia-alpha.md)
-Breve descripción de la herramienta o infraestructura. (Recuerda crear luego un archivo llamado `guia-alpha.md` y subirlo para que este enlace funcione).
-**Stack:** `Python` `Docker`
+### [> Filtro DNS mediante VPN](./pihole_tailscale.md)
+Como configurar un filtro DNS que proteja, anonimice tus peticiones y limpie los anuncios de webs tanto dentro como fuera de casa.
+**Stack:** `Docker` `Pihole` `Unbound` `Tailscale`
 
-### [> Proyecto Beta](./guia-beta.md)
+### [> Script Nmap](./script_nmap.md)
 Script de automatización para auditorías o despliegues.
 **Stack:** `Bash` `Linux`
