@@ -1,19 +1,13 @@
-# Archivo _config.yml
+# Configuración básica
+title: yerayleon:~$
+description: Portfolio personal y documentación
 
-# Información básica
-title: Yeray León | Portfolio
-email: yerayleonbelmonte@gmail.com<
-description: >- # Tu bio corta
-  Desarrollador enfocado en seguridad y sistemas.
-  Bienvenido a mi terminal personal.
-
-# Configuración del Tema (IMPORTANTE)
-# Sustituye 'owner/repo' por el repositorio real del tema que elijas.
-# Ejemplo para jekyll-theme-terminal (si estuviera en owner/repo):
+# Activar el tema de b2a3e8
 remote_theme: b2a3e8/jekyll-theme-console
 
-# Plugins necesarios para que GitHub Pages lo lea
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
+# Opciones específicas del tema Console
+style: dark # Puedes cambiarlo a 'light' si prefieres fondo claro
+
+# Barra de navegación superior
+header_pages:
+  - index.md
