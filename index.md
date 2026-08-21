@@ -15,15 +15,12 @@ Soy un administrador de sistemas apasionado por los entornos Linux y la ciberseg
 
 ### `~# systemctl status yeray.service`
 
-Actualmente dedico mi tiempo a:
-
-* **Empleo:** Trabajando con estructuras SCADA aplicadas al sector de los seguidores solares.
-* **Tiempo libre:** Sigo formándome (cuando tengo tiempo) montando mis propios servicios en casa o resolviendo CTFs en plataformas como [TryHackMe](https://tryhackme.com) y [HackTheBox](https://hackthebox.com).
+Actualmente dedico mi tiempo a trabajar con estructuras SCADA aplicadas al sector de los seguidores solares, sigo formándome en mis ratos libres montando mis propios servicios en casa o resolviendo CTFs en plataformas como [TryHackMe](https://tryhackme.com) y [HackTheBox](https://hackthebox.com).
 
 ### `~# cat /etc/skills`
 
 * **Sistemas Operativos:** GNU/Linux (Ubuntu, Debian, Fedora, Arch) y Windows...
-* **Seguridad & Hacking:** Pentesting, análisis de vulnerabilidades, Hardening de servidores y Auditorías web.
+* **Seguridad & Hacking:** Pentesting, Hardening de servidores y Auditorías web.
 * **Redes & OT:** Protocolos industriales (MQTT, ModBus, OPC) y gestión de arquitecturas SCADA.
 * **Herramientas:** Bash Scripting, Docker, Nmap, BurpSuite, VMWare, Proxmox, Obsidian...
 
