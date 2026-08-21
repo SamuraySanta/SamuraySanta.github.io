@@ -6,7 +6,7 @@ permalink: /proyectos/
 
 # ~/proyectos
 
-### ~# ls ./proyectos
+### # ls ./proyectos
 
 Aquí recopilo mis herramientas, scripts y entornos de pruebas.
 
