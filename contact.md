@@ -3,7 +3,7 @@ layout: page
 title: /contact
 permalink: /contact/
 lang: es
-robots: NOINDEX
+robots: noindex
 ---
 
 ### `~# echo "Hello yeray!"`
@@ -15,4 +15,4 @@ Si quieres hablar sobre proyectos, colaboraciones o simplemente saludar:
 * **GitHub:** [SamuraySanta](https://github.com/SamuraySanta)
 * **TryHackMe:** [SamuraySanta](https://tryhackme.com/p/SamuraySanta)
 
-Preferiblemente mándame un mail ;)
+Preferiblemente, mándame un mail ;)
