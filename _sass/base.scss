@@ -13,17 +13,58 @@ $container-max-width:  800px !default;
 /**
  * Global
  */
-body { background-color: var(--background-color);  margin: 0 auto;  padding: 0;  font-family: $base-font-family;  font-size: $base-font-size;  color: var(--text-color);  text-align: left;  line-height: $base-line-height !important; }
+body { 
+    background-color: var(--background-color); 
+    
+    /* EFECTO MATRIX: Dos capas SVG inyectadas en Base64 con baja opacidad */
+    background-image:
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200' fill='rgba(255,255,255,0.04)' font-family='monospace' font-size='16'%3E%3Ctext x='10' y='20'%3E1%3C/text%3E%3Ctext x='10' y='40'%3E0%3C/text%3E%3Ctext x='50' y='80'%3E0%3C/text%3E%3Ctext x='50' y='100'%3E1%3C/text%3E%3Ctext x='90' y='10'%3E1%3C/text%3E%3Ctext x='130' y='150'%3E1%3C/text%3E%3Ctext x='130' y='170'%3E0%3C/text%3E%3Ctext x='170' y='50'%3E0%3C/text%3E%3Ctext x='170' y='70'%3E1%3C/text%3E%3C/svg%3E"),
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300' fill='rgba(255,255,255,0.02)' font-family='monospace' font-size='22'%3E%3Ctext x='30' y='40'%3E0%3C/text%3E%3Ctext x='30' y='60'%3E1%3C/text%3E%3Ctext x='120' y='140'%3E1%3C/text%3E%3Ctext x='120' y='160'%3E0%3C/text%3E%3Ctext x='210' y='220'%3E0%3C/text%3E%3Ctext x='260' y='80'%3E1%3C/text%3E%3C/svg%3E");
+    animation: matrixRain 15s linear infinite;
+    
+    margin: 0 auto; 
+    padding: 0; 
+    font-family: $base-font-family; 
+    font-size: $base-font-size; 
+    color: var(--text-color); 
+    text-align: left; 
+    line-height: $base-line-height !important; 
+}
+
+/* El motor de la lluvia de datos */
+@keyframes matrixRain {
+    0% { background-position: 0 0, 0 0; }
+    100% { background-position: 0 600px, 0 300px; }
+}
+
 h1, h2, h3, h4, h5, h6 { font-size: $base-font-size; margin: 35px 0 15px 0; font-weight: bold; color: var(--text-color); }
 p, ul, ol { margin: 15px;  color: var(--text-color); }
 a { text-decoration: underline;  color: var(--link-color); }
 a:hover { color: var(--background-color); background-color: var(--base-color); }
-@media only screen and (max-device-width: 500px) { * { font-size: $mobile-font-size !important; } }
+
+@media only screen and (max-device-width: 500px) { 
+    * { font-size: $mobile-font-size !important; } 
+    .container { padding: 15px 15px !important; } /* Recuperamos espacio en móviles */
+}
 
 /**
  * Layout
  */
-.container { width: $container-width;  max-width: $container-max-width;  margin-right: auto;  margin-left: auto; }
+.container { 
+    width: $container-width;  
+    max-width: $container-max-width;  
+    margin-right: auto;  
+    margin-left: auto; 
+    
+    /* Configuración para que el centro sea legible sobre la lluvia */
+    background-color: var(--background-color);
+    padding: 20px 40px; 
+    border-left: 1px solid var(--border);
+    border-right: 1px solid var(--border);
+    min-height: 100vh;
+    box-sizing: border-box;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.8);
+}
 p { word-wrap: break-word;  word-break: break-word;  white-space: pre-wrap; margin-bottom: 15px; }
 footer { color: var(--text-color);  border-top: var(--border);  margin: 20px auto 15px;  padding-top: 10px;  text-align: right; }
 header { margin-top: 25px;  margin-bottom: 10px; }
