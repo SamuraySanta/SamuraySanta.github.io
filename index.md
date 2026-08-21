@@ -1,34 +1,39 @@
 ---
-layout: home
+layout: page
+title: Home
 ---
 
 # > whoami
-**Yeray León**
-*Desarrollador de Sistemas / Entusiasta de la Ciberseguridad*
 
-[Descargar CV en PDF](./ruta/a/tu/cv.pdf) | [LinkedIn](tu-url) | [GitHub](tu-url)
+Hola, soy **Yeray León**. 
 
----
-
-# > cat skills.txt
-- **Lenguajes:** Python, Bash, C++, Rust (aprendiendo)
-- **Sistemas:** Linux (Arch, Debian), Docker, Kubernetes
-- **Herramientas:** Nmap, Burp Suite, Wireshark, Git
+Bienvenido a mi espacio personal. Aquí alojo mi portfolio, proyectos y documentación técnica.
 
 ---
 
-# > ls projects/
-### [Nombre del Proyecto 1](./proyecto-1.md)
-*Pequeña descripción de 1 línea sobre qué hace.*
-`Python` `API` `Docker`
+## >_ skills & stack
 
-### [Nombre del Proyecto 2](./proyecto-2.md)
-*Pequeña descripción de 1 línea.*
-`Bash` `Scripting` `Seguridad`
+* **Sistemas:** Linux, Docker, Bash
+* **Desarrollo:** [Añade tus lenguajes]
+* **Herramientas:** Git, Markdown, Jekyll
 
 ---
 
-# > ls docs/
-Aquí puedes encontrar documentación técnica y manuales que he escrito.
-- [Manual de Hardening de Servidores Linux](./docs/hardening.md)
-- [Write-up de la CTF de ejemplo](./docs/ctf-writeup.md)
+## >_ proyectos
+
+### [Proyecto Alpha](enlace-a-tu-proyecto)
+Breve descripción de lo que hace el proyecto. En Markdown, recuerda siempre dejar una línea en blanco arriba y abajo de cada párrafo para que no se peguen.
+
+### [Proyecto Beta](enlace-a-tu-proyecto)
+Otra descripción corta. Menos es más en este tema.
+
+---
+
+## >_ docs/
+
+* [📄 Documentación de API](./ruta/a/tu/doc.md)
+* [📄 Manual de despliegue](./ruta/a/tu/manual.md)
+
+---
+
+[GitHub](tu-enlace) | [LinkedIn](tu-enlace) | [CV PDF](tu-enlace)
