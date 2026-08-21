@@ -1,13 +1,11 @@
-# Configuración básica
 title: yerayleon:~$
 description: Portfolio personal y documentación
-
-# Activar el tema de b2a3e8
 remote_theme: b2a3e8/jekyll-theme-console
+style: dark
 
-# Opciones específicas del tema Console
-style: dark # Puedes cambiarlo a 'light' si prefieres fondo claro
-
-# Barra de navegación superior
+# Esta es la barra de navegación superior
 header_pages:
   - index.md
+  - proyectos.md
+  - about.md
+  - contact.md
