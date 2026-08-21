@@ -6,6 +6,8 @@ lang: es
 robots: noindex
 ---
 
+# ~/contact
+
 ### `# echo "Hello Yeray!"`
 
 Si quieres hablar sobre proyectos, colaboraciones o simplemente saludar:
