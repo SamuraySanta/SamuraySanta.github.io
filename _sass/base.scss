@@ -11,10 +11,32 @@ $container-width:      90% !default;
 $container-max-width:  800px !default;
 
 /**
+ * Fuentes personalizadas
+ */
+/* Alternativa gratuita de Google Fonts (por si la fuente NDot falla) */
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+/* Fuente oficial de Nothing (Deberás descargar NDot57.woff2 y meterla en tu carpeta de assets/fonts) */
+@font-face {
+    font-family: 'NDot';
+    src: url('/assets/fonts/Ndot55-Regular.otf') format('otf'); /* Ajusta esta ruta según tu proyecto Jekyll */
+    font-weight: normal;
+    font-style: normal;
+}
+
+/**
  * Global
  */
 body { background-color: var(--background-color);  margin: 0 auto;  padding: 0;  font-family: $base-font-family;  font-size: $base-font-size;  color: var(--text-color);  text-align: left;  line-height: $base-line-height !important; }
-h1 { font-size: 26px; margin: 20x 0 20px 0; font-weight: bold; color: var(--text-color); }
+/**h1 { font-size: 26px; margin: 20x 0 20px 0; font-weight: bold; color: var(--text-color); }**/
+h1 { 
+    font-family: 'NDot', 'DotGothic16', monospace; 
+    font-size: 32px; /* Un poco más grande luce mejor con fuentes de puntos */
+    margin: 20px 0 20px 0; /* Corregido el '20x' de tu código original */
+    font-weight: normal; /* Las fuentes dot-matrix suelen verse mal si se les fuerza el negrita */
+    color: var(--text-color); 
+    text-transform: uppercase; /* El estilo Nothing suele destacar más en mayúsculas */
+}
 h2, h3, h4, h5, h6 { font-size: $base-font-size; margin: 35px 0 15px 0; font-weight: bold; color: var(--text-color); }
 p, ul, ol { margin: 15px;  color: var(--text-color); }
 a { text-decoration: underline;  color: var(--link-color); }
