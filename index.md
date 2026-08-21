@@ -5,7 +5,7 @@ permalink: /
 lang: es
 ---
 
-/home/yeray
+# /home/yeray
 
 ¡Bienvenido a mi Terminal! Usa el menú superior para moverte por el sistema.
 
