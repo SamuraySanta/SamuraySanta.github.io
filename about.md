@@ -5,7 +5,7 @@ permalink: /about/
 lang: es
 ---
 
-### `~# hostnamectl`
+### `# hostnamectl`
 
 ![Yeray León](/assets/mi-rostros.jpg)
 
