@@ -26,6 +26,6 @@ Actualmente dedico mi tiempo a trabajar con estructuras SCADA aplicadas al secto
 
 ### `~# ls /home/yeray`
 
-* `drwxr-xr-x` [./proyectos](proyectos.md) -> Explora mis laboratorios y scripts.
-* `drwxr-xr-x` [./about](about.md) -> Conoce más sobre mí.
-* `-rw-r--r--` [./contact](contact.md) -> ¡Ponte en contacto conmigo!
+* [./proyectos](proyectos.md) -> Explora mis laboratorios y scripts.
+* [./about](about.md) -> Conoce más sobre mí.
+* [./contact](contact.md) -> ¡Ponte en contacto conmigo!
