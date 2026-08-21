@@ -5,6 +5,8 @@ permalink: /
 lang: es
 ---
 
+/home/yeray
+
 ¡Bienvenido a mi Terminal! Usa el menú superior para moverte por el sistema.
 
 ### `~# whoami`
