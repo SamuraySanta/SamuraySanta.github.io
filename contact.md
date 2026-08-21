@@ -2,9 +2,10 @@
 layout: page
 title: /contact
 permalink: /contact/
+lang: es
 ---
 
-### `~# write "Hello yeray!"`
+### `~# echo "Hello yeray!"`
 
 Si quieres hablar sobre proyectos, colaboraciones o simplemente saludar:
 
@@ -12,3 +13,5 @@ Si quieres hablar sobre proyectos, colaboraciones o simplemente saludar:
 * **LinkedIn:** [Yeray León Belmonte ](https://linkedin.com/in/yeray-leon-belmonte)
 * **GitHub:** [@SamuraySanta](https://github.com/SamuraySanta)
 * **TryHackMe:** [SamuraySanta](https://tryhackme.com/p/SamuraySanta)
+
+Preferiblemente mándame un mail ;)
