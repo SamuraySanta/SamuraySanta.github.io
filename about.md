@@ -5,7 +5,7 @@ permalink: /about/
 lang: es
 ---
 
- # ~/about
+# ~/about
 
 ### `# hostnamectl`
 
