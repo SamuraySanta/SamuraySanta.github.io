@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /contact
+title: ~/contact
 permalink: /contact/
 lang: es
 robots: noindex
