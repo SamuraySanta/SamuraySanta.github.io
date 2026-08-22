@@ -13,17 +13,17 @@ lang: es
 
 | ![Objetivo](/assets/objetivo.svg) | `> Yeray León <` |
 | :--- | :--- |
-| `Estudios:` | Técnico Superior ASIR |
-| `Ocupación:` | SysAdmin & Homelabbing |
-| `Estado:` | 24/7 resolviendo problemas en la terminal |
+| `Estudios:` | Técnico Superior ASIR 2024-2026 |
+| `Ocupación:` | SysAdmin & Cybersecurity LMXJV-- |
+| `Estado:` | Resolviendo problemas en la terminal 24/7 |
 
 ---
 
 ### `# systemctl status yeray.service`
 
-> `[ OK ]` Servicio activo y ejecutándose. 
-> `[INFO]` Tarea principal actual: Gestionando estructuras SCADA aplicadas al sector de los seguidores solares.
-> `[INFO]` Procesos en segundo plano: Resolviendo CTFs y montando servicios en casa.
+`[ OK ]` Servicio activo y ejecutándose. 
+`[INFO]` Tarea principal actual: Gestionando estructuras SCADA aplicadas al sector de los seguidores solares.
+`[INFO]` Procesos en segundo plano: Resolviendo CTFs y montando servicios en casa.
 
 ---
 
