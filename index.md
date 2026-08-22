@@ -20,6 +20,7 @@ lang: es
 ---
 
 ### `# systemctl status yeray.service`
+
 | ESTADO | DATA |
 | :--- | :--- |
 | **[ OK ]** | Servicio **activo** y ejecutándose. 
