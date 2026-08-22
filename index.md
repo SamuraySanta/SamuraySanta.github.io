@@ -9,12 +9,22 @@ lang: es
 
 ¡Bienvenido a mi Terminal! Usa el menú superior para moverte por el sistema.
 
+```
+   _____                       _           _       
+  / ____|             /\      | |         (_)      
+ | (___  _   _ ___   /  \   __| |_ __ ___  _ _ __  
+  \___ \| | | / __| / /\ \ / _` | '_ ` _ \| | '_ \ 
+  ____) | |_| \__ \/ ____ \ (_| | | | | | | | | | |
+ |_____/ \__, |___/_/    \_\__,_|_| |_| |_|_|_| |_|
+          __/ |                                    
+         |___/                                     
+```
 
 ---
 
 ### `# neofetch --yeray`
 
-| `yeray@sysadmin` | '*~-.,¸¸.-~·*'¨¯ Specs ¯¨'*·~-.¸¸,.-~*' |
+| `yeray@sysadmin` | ------------------------------------------ |
 | :--- | :--- |
 | **Arquitectura** | Administrador de Sistemas & Ciberseguridad |
 | **Kernel** | SysAdmin & Homelabbing |
