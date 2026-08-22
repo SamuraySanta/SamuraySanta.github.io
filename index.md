@@ -9,25 +9,33 @@ lang: es
 
 ¡Bienvenido a mi Terminal! Usa el menú superior para moverte por el sistema.
 
-### `# whoami`
+### `# neofetch --yeray`
 
-Hola, soy **Yeray León**.
-
-Soy un administrador de sistemas apasionado por los entornos Linux y la ciberseguridad. Trabajo principalmente con herramientas Open Source, construyo infraestructuras resilientes y soy un hacha en la terminal.
+| 👨‍💻 `yeray@sysadmin` | **Especificaciones del Sistema** |
+| :--- | :--- |
+| **Arquitectura** | Administrador de Sistemas & Entusiasta Ciberseguridad |
+| **Kernel** | Aprendizaje Autodidacta / Open Source |
+| **Uptime** | 24/7 resolviendo problemas en la terminal |
+| **Red** | [TryHackMe](https://tryhackme.com) \| [HackTheBox](https://hackthebox.com) |
 
 ### `# systemctl status yeray.service`
 
-Actualmente dedico mi tiempo a trabajar con estructuras SCADA aplicadas al sector de los seguidores solares, sigo formándome en mis ratos libres montando mis propios servicios en casa o resolviendo CTFs en plataformas como [TryHackMe](https://tryhackme.com) y [HackTheBox](https://hackthebox.com).
+> **[ OK ]** Servicio activo y ejecutándose. 
+> **[ INFO ]** Tarea principal actual: Gestionando estructuras SCADA aplicadas al sector de los seguidores solares.
+> **[ INFO ]** Procesos en segundo plano: Resolviendo CTFs y montando laboratorios.
 
-### `# cat /etc/skills`
+### `# cat /etc/skills.conf`
 
-* **Sistemas Operativos:** GNU/Linux (Ubuntu, Debian, Fedora, Arch) y Windows...
-* **Seguridad & Hacking:** Pentesting, Hardening de servidores y Auditorías web.
-* **Redes & OT:** Protocolos industriales (MQTT, ModBus, OPC) y gestión de arquitecturas SCADA.
-* **Herramientas:** Bash Scripting, Docker, Nmap, BurpSuite, VMWare, Proxmox, Obsidian...
+| Módulo | Paquetes Instalados |
+| :--- | :--- |
+| 🐧 **OS** | `GNU/Linux` (Ubuntu, Debian, Fedora, Arch) · `Windows` |
+| 🛡️ **Seguridad** | `Pentesting` · `Hardening` de servidores · `Auditorías Web` |
+| ⚙️ **Redes & OT** | Protocolos Industriales (`MQTT`, `ModBus`, `OPC`) · `SCADA` |
+| 🛠️ **SysAdmin** | `Bash` · `Docker` · `Proxmox` · `VMWare` |
+| 🧰 **Hacking** | `Nmap` · `BurpSuite` · `Obsidian` |
 
-### `# ls /home/yeray`
+### `# tree /home/yeray/`
 
-* [./proyectos](proyectos.md) -> Explora mis laboratorios y scripts.
-* [./about](about.md) -> Conoce más sobre mí.
-* [./contact](contact.md) -> ¡Ponte en contacto conmigo!
+* 📁 **[./proyectos](proyectos.md)** -> Explora mis laboratorios, scripts y entornos.
+* 📄 **[./about.md](about.md)** -> Conoce más sobre mi hardware personal y aficiones.
+* 📧 **[./contact.md](contact.md)** -> Puertos abiertos. ¡Ponte en contacto conmigo!
