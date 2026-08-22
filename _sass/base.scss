@@ -19,7 +19,7 @@ $container-max-width:  800px !default;
 /* Fuente oficial de Nothing (Deberás descargar NDot57.woff2 y meterla en tu carpeta de assets/fonts) */
 @font-face {
     font-family: 'NDot';
-    src: url('/assets/fonts/Ndot55-Regular.otf') format('opentype'); /* Ajusta esta ruta según tu proyecto Jekyll */
+    src: url('../assets/fonts/Ndot55-Regular.otf') format('opentype'); /* Ajusta esta ruta según tu proyecto Jekyll */
     font-weight: normal;
     font-style: normal;
 }
@@ -106,6 +106,16 @@ img {
     display: block; 
     margin: 20px auto; 
     border: 1px solid var(--border); /* Le da un toque sutil de consola */
+}
+
+/**
+ * Footer
+ */
+footer { 
+    border-top: 2px dotted var(--text-color); 
+    text-align: center;                       
+    padding-top: 20px;                        
+    margin-top: 40px;                         
 }
 
 /**
