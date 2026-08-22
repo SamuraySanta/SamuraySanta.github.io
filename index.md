@@ -16,7 +16,7 @@ lang: es
 | `yeray@sysadmin` | **Especificaciones del Sistema** |
 | :--- | :--- |
 | **Arquitectura** | Administrador de Sistemas & Ciberseguridad |
-| **Kernel** | Aprendizaje Autodidacta / Open Source |
+| **Kernel** | SysAdmin & Homelabbing |
 | **Uptime** | 24/7 resolviendo problemas en la terminal |
 | **Red** | [TryHackMe](https://tryhackme.com) \| [HackTheBox](https://hackthebox.com) |
 
