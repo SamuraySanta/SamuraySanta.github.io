@@ -21,7 +21,7 @@ lang: es
 
 ### `# systemctl status yeray.service`
 
-| ESTADO | DATA |
+| Estado |  |
 | :--- | :--- |
 | **[ OK ]** | Servicio **activo** y ejecutándose. 
 | **[INFO]** | Tarea principal actual: Gestionando estructuras **SCADA** aplicadas al sector de los seguidores solares. |
