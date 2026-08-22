@@ -9,28 +9,30 @@ lang: es
 
 ¡Bienvenido a mi Terminal! Usa el menú superior para moverte por el sistema.
 
+
 ---
 
 ### `# neofetch --yeray`
 
-| `yeray@sysadmin` |  |
+| `yeray@sysadmin` | '*~-.,¸¸.-~·*'¨¯ Specs ¯¨'*·~-.¸¸,.-~*' |
 | :--- | :--- |
 | **Arquitectura** | Administrador de Sistemas & Ciberseguridad |
 | **Kernel** | SysAdmin & Homelabbing |
 | **Uptime** | 24/7 resolviendo problemas en la terminal |
 | **Red** | [TryHackMe](https://tryhackme.com) \| [HackTheBox](https://hackthebox.com) |
 
+
 ---
 
 ### `# systemctl status yeray.service`
 
-> **[ OK ]** Servicio activo y ejecutándose.
-> **[ INFO ]** Tarea principal actual: Gestionando estructuras SCADA aplicadas al sector de los seguidores solares.
-> **[ INFO ]** Procesos en segundo plano: Resolviendo CTFs y montando laboratorios.
-
-### `# cat /etc/skills.conf`
+| > **[ OK ]** | Servicio activo y ejecutándose. | 
+| > **[ INFO ]** | Tarea principal actual: Gestionando estructuras SCADA aplicadas al sector de los seguidores solares. |
+| > **[ INFO ]** | Procesos en segundo plano: Resolviendo CTFs y montando laboratorios.
 
 ---
+
+### `# cat /etc/skills.conf`
 
 | Módulo | Paquetes Instalados |
 | :--- | :--- |
@@ -39,6 +41,7 @@ lang: es
 | 📡 **Redes & OT** | `SCADA` , `MQTT`, `ModBus`, `OPC` |
 | 💻 **SysAdmin** | `Bash` · `Docker` · `Proxmox` · `VMWare` |
 | ⛓️‍💥 **Hacking** | `Nmap` · `BurpSuite` , `Aircrack` |
+
 
 ---
 
