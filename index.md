@@ -20,10 +20,11 @@ lang: es
 ---
 
 ### `# systemctl status yeray.service`
-
-**[ OK ]** Servicio **activo** y ejecutándose. 
-**[INFO]** Tarea principal actual: Gestionando estructuras **SCADA** aplicadas al sector de los seguidores solares.
-**[INFO]** Procesos en segundo plano: Resolviendo **CTFs** y montando servicios en casa.
+| ESTADO | DATA |
+| :--- | :--- |
+| **[ OK ]** | Servicio **activo** y ejecutándose. 
+| **[INFO]** | Tarea principal actual: Gestionando estructuras **SCADA** aplicadas al sector de los seguidores solares. |
+| **[INFO]** | Procesos en segundo plano: Resolviendo **CTFs** y montando servicios en casa. |
 
 ---
 
