@@ -7,38 +7,65 @@ lang: es
 
 # /home/yeray
 
+```
+                                                                                                            
+ ▗  ▗▄▄  ▝                       ▝    ▐                      ▝      ▄▄▄▖             ▝          ▝▜   ▗      
+ ▝  ▐  ▌▗▄   ▄▖ ▗▗▖ ▗ ▗  ▄▖ ▗▗▖ ▗▄   ▄▟  ▄▖      ▄▖     ▗▄▄ ▗▄       ▐   ▄▖  ▖▄ ▗▄▄ ▗▄  ▗▗▖  ▄▖  ▐   ▐      
+ ▐  ▐▄▄▘ ▐  ▐▘▐ ▐▘▐ ▝▖▞ ▐▘▐ ▐▘▐  ▐  ▐▘▜ ▐▘▜     ▝ ▐     ▐▐▐  ▐       ▐  ▐▘▐  ▛ ▘▐▐▐  ▐  ▐▘▐ ▝ ▐  ▐   ▐      
+ ▐  ▐  ▌ ▐  ▐▀▀ ▐ ▐  ▙▌ ▐▀▀ ▐ ▐  ▐  ▐ ▐ ▐ ▐     ▗▀▜     ▐▐▐  ▐       ▐  ▐▀▀  ▌  ▐▐▐  ▐  ▐ ▐ ▗▀▜  ▐   ▝      
+ ▐  ▐▄▄▘▗▟▄ ▝▙▞ ▐ ▐  ▐  ▝▙▞ ▐ ▐ ▗▟▄ ▝▙█ ▝▙▛     ▝▄▜     ▐▐▐ ▗▟▄      ▐  ▝▙▞  ▌  ▐▐▐ ▗▟▄ ▐ ▐ ▝▄▜  ▝▄  ▐      
+                                                                                                            
+                                                                                                            
+                                                                                                            
+▗  ▖                ▝▜                                               ▝                                      
+▐  ▌ ▄▖  ▄▖      ▄▖  ▐      ▗▄▄  ▄▖ ▗▗▖ ▗ ▗      ▄▖ ▗ ▗ ▗▄▖  ▄▖  ▖▄ ▗▄   ▄▖  ▖▄     ▗▄▖  ▄▖  ▖▄  ▄▖         
+▐  ▌▐ ▝ ▝ ▐     ▐▘▐  ▐      ▐▐▐ ▐▘▐ ▐▘▐ ▐ ▐     ▐ ▝ ▐ ▐ ▐▘▜ ▐▘▐  ▛ ▘ ▐  ▐▘▜  ▛ ▘    ▐▘▜ ▝ ▐  ▛ ▘▝ ▐         
+▐  ▌ ▀▚ ▗▀▜     ▐▀▀  ▐      ▐▐▐ ▐▀▀ ▐ ▐ ▐ ▐      ▀▚ ▐ ▐ ▐ ▐ ▐▀▀  ▌   ▐  ▐ ▐  ▌      ▐ ▐ ▗▀▜  ▌  ▗▀▜         
+▝▄▄▘▝▄▞ ▝▄▜     ▝▙▞  ▝▄     ▐▐▐ ▝▙▞ ▐ ▐ ▝▄▜     ▝▄▞ ▝▄▜ ▐▙▛ ▝▙▞  ▌  ▗▟▄ ▝▙▛  ▌      ▐▙▛ ▝▄▜  ▌  ▝▄▜         
+                                                        ▐                           ▐                       
+                                                        ▝                           ▝                       
+                                                                                                            
+                     ▗                              ▝▜           ▝       ▗                                  
+▗▄▄  ▄▖ ▗ ▗  ▄▖  ▖▄ ▗▟▄  ▄▖     ▗▄▖  ▄▖  ▖▄      ▄▖  ▐       ▄▖ ▗▄   ▄▖ ▗▟▄  ▄▖ ▗▄▄  ▄▖                     
+▐▐▐ ▐▘▜ ▝▖▞ ▐▘▐  ▛ ▘ ▐  ▐▘▐     ▐▘▜ ▐▘▜  ▛ ▘    ▐▘▐  ▐      ▐ ▝  ▐  ▐ ▝  ▐  ▐▘▐ ▐▐▐ ▝ ▐                     
+▐▐▐ ▐ ▐  ▙▌ ▐▀▀  ▌   ▐  ▐▀▀     ▐ ▐ ▐ ▐  ▌      ▐▀▀  ▐       ▀▚  ▐   ▀▚  ▐  ▐▀▀ ▐▐▐ ▗▀▜                     
+▐▐▐ ▝▙▛  ▐  ▝▙▞  ▌   ▝▄ ▝▙▞     ▐▙▛ ▝▙▛  ▌      ▝▙▞  ▝▄     ▝▄▞ ▗▟▄ ▝▄▞  ▝▄ ▝▙▞ ▐▐▐ ▝▄▜  ▐                  
+                                ▐                                                                           
+                                ▝
+```
+
 ¡Bienvenido a mi Terminal! Usa el menú superior para moverte por el sistema.
 
 ```
-   _____                       _           _       
-  / ____|             /\      | |         (_)      
- | (___  _   _ ___   /  \   __| |_ __ ___  _ _ __  
-  \___ \| | | / __| / /\ \ / _` | '_ ` _ \| | '_ \ 
-  ____) | |_| \__ \/ ____ \ (_| | | | | | | | | | |
- |_____/ \__, |___/_/    \_\__,_|_| |_| |_|_|_| |_|
-          __/ |                                    
-         |___/                                     
+                                                                                
+   ▄▄▄▄                           ▄▄           ▄▄               ██              
+ ▄█▀▀▀▀█                         ████          ██               ▀▀              
+ ██▄       ▀██  ███  ▄▄█████▄    ████     ▄███▄██  ████▄██▄   ████     ██▄████▄ 
+  ▀████▄    ██▄ ██   ██▄▄▄▄ ▀   ██  ██   ██▀  ▀██  ██ ██ ██     ██     ██▀   ██ 
+      ▀██    ████▀    ▀▀▀▀██▄   ██████   ██    ██  ██ ██ ██     ██     ██    ██ 
+ █▄▄▄▄▄█▀     ███    █▄▄▄▄▄██  ▄██  ██▄  ▀██▄▄███  ██ ██ ██  ▄▄▄██▄▄▄  ██    ██ 
+  ▀▀▀▀▀       ██      ▀▀▀▀▀▀   ▀▀    ▀▀    ▀▀▀ ▀▀  ▀▀ ▀▀ ▀▀  ▀▀▀▀▀▀▀▀  ▀▀    ▀▀ 
+            ███                                                                 
+                                                                                                                  
 ```
 
 ---
 
-### `# neofetch --yeray`
+### `# ./identify_yeray.sh`
 
-| `yeray@sysadmin` | ------------------------------------------ |
+| `Yeray León` | ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ |
 | :--- | :--- |
-| **Arquitectura** | Administrador de Sistemas & Ciberseguridad |
-| **Kernel** | SysAdmin & Homelabbing |
-| **Uptime** | 24/7 resolviendo problemas en la terminal |
-| **Red** | [TryHackMe](https://tryhackme.com) \| [HackTheBox](https://hackthebox.com) |
-
+| **Estudios** | Administrador de sistemas informaticos en red |
+| **Ocupación** | SysAdmin & Homelabbing |
+| **Estado** | 24/7 resolviendo problemas en la terminal |
 
 ---
 
 ### `# systemctl status yeray.service`
 
-| > **[ OK ]** | Servicio activo y ejecutándose. | 
-| > **[ INFO ]** | Tarea principal actual: Gestionando estructuras SCADA aplicadas al sector de los seguidores solares. |
-| > **[ INFO ]** | Procesos en segundo plano: Resolviendo CTFs y montando laboratorios.
+| > **[OK]** | Servicio activo y ejecutándose. | 
+| > **[INFO]** | Tarea principal actual: Gestionando estructuras SCADA aplicadas al sector de los seguidores solares. |
+| > **[INFO]** | Procesos en segundo plano: Resolviendo CTFs y montando servicios en casa.
 
 ---
 
