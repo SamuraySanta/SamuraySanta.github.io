@@ -11,8 +11,6 @@ lang: es
 
 ---
 
-### `# ./identify_yeray.sh`
-
 | ![Objetivo](/assets/objetivo.svg) | `> Yeray León <` |
 | :--- | :--- |
 | `Estudios:` | Técnico Superior ASIR |
