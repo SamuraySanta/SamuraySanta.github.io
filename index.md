@@ -9,8 +9,6 @@ lang: es
 
 ¡Bienvenido a mi Terminal! Usa el menú superior para moverte por el sistema.
 
----
-
 | ![Objetivo](/assets/objetivo.svg) | `> Yeray León <` |
 | :--- | :--- |
 | `Estudios:` | Técnico Superior **ASIR** 2024-2026 |
