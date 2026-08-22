@@ -7,7 +7,7 @@ lang: es
 
 # ~/about
 
-### `# hostnamectl`
+### `Sobre mí:`
 
 Más allá de las terminales y el código tengo más pasiones. 
 
