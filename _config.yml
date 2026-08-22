@@ -8,7 +8,7 @@ listen_for_clients_preferred_style: true
 disable_google_fonts: true
 
 # Pie de página (soporta HTML)
-footer: '&copy; 2026 Yeray León | <a href="https://linkedin.com/in/yeray-leon-belmonte">LinkedIn</a> | Powered by Jekyll & <a href="https://github.com/SamuraySanta">GitHub</a> Pages'
+footer: '&copy; 2026 Yeray León | <a href="https://linkedin.com/in/yeray-leon-belmonte">LinkedIn</a> | Powered by <a href="https://github.com/SamuraySanta">GitHub</a> Pages & Jekyll'
 # --- OPTIMIZACIÓN ---
 # Corregido: La sintaxis YAML requiere salto de línea y sangría aquí
 sass:
