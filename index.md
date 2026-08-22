@@ -23,9 +23,9 @@ lang: es
 
 ### `# systemctl status yeray.service`
 
-| > `[OK]` | Servicio activo y ejecutándose. | 
-| > `[INFO]` | Tarea principal actual: Gestionando estructuras SCADA aplicadas al sector de los seguidores solares. |
-| > `[INFO]` | Procesos en segundo plano: Resolviendo CTFs y montando servicios en casa.
+> `[ OK ]` Servicio activo y ejecutándose. 
+> `[INFO]` Tarea principal actual: Gestionando estructuras SCADA aplicadas al sector de los seguidores solares.
+> `[INFO]` Procesos en segundo plano: Resolviendo CTFs y montando servicios en casa.
 
 ---
 
@@ -35,15 +35,14 @@ lang: es
 | :--- | :--- |
 | 🐧 **OS** | `GNU/Linux (Ubuntu, Debian, Fedora)` · `Windows...` 😮‍💨 |
 | 🛡️ **Seguridad** | `Pentesting` · `Hardening` · `Auditorías Web` |
-| 📡 **Redes & OT** | `SCADA` . `MQTT` . `ModBus` . `OPC` |
+| 📡 **Redes & OT** | `SCADA` · `MQTT` · `ModBus` · `OPC` |
 | 💻 **SysAdmin** | `Bash` · `Docker` · `Proxmox` · `VMWare` |
-| ⛓️‍💥 **Hacking** | `Nmap` · `BurpSuite` . `Aircrack` |
-
+| ⛓️‍💥 **Hacking** | `Nmap` · `BurpSuite` · `Aircrack` |
 
 ---
 
 ### `# tree /home/yeray/`
 
-*  **[./proyectos](proyectos.md)** -> Explora mis laboratorios, scripts y entornos.
-*  **[./about.md](about.md)** -> Conoce más sobre mi.
-*  **[./contact.md](contact.md)** -> ¡Ponte en contacto conmigo!
+* **[./proyectos](proyectos.md)** -> Explora mis laboratorios, scripts y entornos.
+* **[./about.md](about.md)** -> Conoce más sobre mí.
+* **[./contact.md](contact.md)** -> ¡Ponte en contacto conmigo!
