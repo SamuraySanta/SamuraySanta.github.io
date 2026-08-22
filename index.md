@@ -13,7 +13,7 @@ lang: es
 
 ### `# ./identify_yeray.sh`
 
-| `> Yeray León <` |  |
+| ![Objetivo](/assets/objetivo.svg) | `> Yeray León <` |
 | :--- | :--- |
 | **Estudios** | Administrador de sistemas informaticos en red |
 | **Ocupación** | SysAdmin & Homelabbing |
