@@ -13,7 +13,7 @@ lang: es
 
 ### `# neofetch --yeray`
 
-| `yeray@sysadmin` | **Especificaciones del Sistema** |
+| `yeray@sysadmin` |  |
 | :--- | :--- |
 | **Arquitectura** | Administrador de Sistemas & Ciberseguridad |
 | **Kernel** | SysAdmin & Homelabbing |
